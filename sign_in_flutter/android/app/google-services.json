@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "361190226121",
+    "firebase_url": "https://fir-demo-37949.firebaseio.com",
+    "project_id": "fir-demo-37949",
+    "storage_bucket": "fir-demo-37949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361190226121:android:197e12cd9954d8d4c63518",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361190226121-0hh2ho5uhjrgj4jghc99lfnr18bbuoh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign_in_flutter",
+            "certificate_hash": "5d462fbf7b1c5ad6ab35b735f9bc619b15ff22b7"
+          }
+        },
+        {
+          "client_id": "361190226121-5vpnfnne3o2udhmbq5epdsp75559sjtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0B2y2RYvuO07LwTjVhvj_kIpXd6Drzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361190226121-5vpnfnne3o2udhmbq5epdsp75559sjtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361190226121-90vdur81rvknjirns2f1ljid9umsvs4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signInFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
